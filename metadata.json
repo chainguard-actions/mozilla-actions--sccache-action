@@ -1,7 +1,7 @@
 {
   "owner": "mozilla-actions",
   "name": "sccache-action",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "sccache github action",
   "block_publish": false
 }
